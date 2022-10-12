@@ -6,6 +6,10 @@ namespace CambioDeMoneda
     {
         static void Main(string[] args)
         {
+
+             // ESTE ES UN MENSAJE NUEVO  -- BRAYAN GARCIA VEGA 
+             // MOANSO 
+
             double[] moneda = { 200, 100, 50, 20, 10, 5, 2, 1, 0.5, 0.2, 0.1 };
             int n = moneda.Length;
             int[] veces = new int[n];
