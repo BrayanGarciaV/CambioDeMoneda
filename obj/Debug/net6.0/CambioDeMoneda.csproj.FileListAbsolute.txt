@@ -1,0 +1,30 @@
+D:\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.exe
+D:\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.deps.json
+D:\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.runtimeconfig.json
+D:\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.dll
+D:\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.pdb
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.csproj.AssemblyReference.cache
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.GeneratedMSBuildEditorConfig.editorconfig
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.AssemblyInfoInputs.cache
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.AssemblyInfo.cs
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.csproj.CoreCompileInputs.cache
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.dll
+D:\CambioDeMoneda\obj\Debug\net6.0\refint\CambioDeMoneda.dll
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.pdb
+D:\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.genruntimeconfig.cache
+D:\CambioDeMoneda\obj\Debug\net6.0\ref\CambioDeMoneda.dll
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.exe
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.deps.json
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.runtimeconfig.json
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.dll
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\bin\Debug\net6.0\CambioDeMoneda.pdb
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.csproj.AssemblyReference.cache
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.AssemblyInfoInputs.cache
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.AssemblyInfo.cs
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.csproj.CoreCompileInputs.cache
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.dll
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\refint\CambioDeMoneda.dll
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.pdb
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\CambioDeMoneda.genruntimeconfig.cache
+D:\CURSO ANALISIS DE ALGORITMOS\CambioDeMoneda\obj\Debug\net6.0\ref\CambioDeMoneda.dll
